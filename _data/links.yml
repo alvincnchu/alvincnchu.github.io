@@ -1,7 +1,7 @@
-# links
-# - url: "https://inspirehep.net/authors/2134833"
-#   description: INSPIRE HEP
-# - url: "https://orcid.org/0000-0002-9491-1598"
-#   description: ORCID
-# - url: "https://www.researchgate.net/profile/Thomas-Ng-20"
-#   description: ResearchGate
+links
+- url: "https://inspirehep.net/authors/3205526"
+  description: INSPIRE HEP
+- url: "https://orcid.org/0009-0001-7807-5809"
+  description: ORCID
+- url: "https://www.researchgate.net/profile/Alvin-Cheuk-Nam-Chu"
+  description: ResearchGate
