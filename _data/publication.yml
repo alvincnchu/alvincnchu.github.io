@@ -1,0 +1,26 @@
+# Publications
+# uncomment the urls if you wish to display them, and add your own URL
+
+- publication: Dark matter self-annihilation as a hidden energy source in white dwarfs
+  duration: Sept 2026
+  url: "https://arxiv.org/abs/2609.22873"
+  description: Authors&#58; Alvin Cheuk-Nam Chu, Cheuk-Man Yiu, Ching-Hui Lam, Peter Siu-Hei Cheung, Fong-Ching Ho, Ming-chung Chu; arXiv preprint available
+
+# - project: Testing stability and asteroseismology of bosonic dark matter admixed white dwarfs with variable scattering length
+#   duration: May 2022 &mdash; Oct 2023
+#   description: <a href="images/BDAWD.pdf" itemprop="url" target="_blank">Final Year Project Report</a><br>Supervisor&#58; <a href="https://newww.phy.cuhk.edu.hk/teaching_staff/chu-ming-chung" itemprop="url" target="_blank">Prof. M.-C. Chu</a><ul class="resume-item-list"><li>Demonstrated admixing bosonic dark matter can possibly explain specific mass-radius relationships in white dwarfs</li><li>Illustrated the instability of white dwarfs partially hosting attractive bosonic dark matter lead to black holes</li><li>Probed the asteroseismology of white dwarfs containing bosonic dark matter of density-dependent scattering length</li><li>Tested stability and hydrodynamics of admixed white dwarfs under general relativity and approximated rotation</ul>
+
+# - project: Addressing Missing Satellite Problem by decyaing dark matter halo
+#   duration: May &mdash; Jul 2021
+#   description: <a href="images/MSP.pdf" itemprop="url" target="_blank">Poster</a><br>Supervisor&#58; <a href="https://newww.phy.cuhk.edu.hk/teaching_staff/chu-ming-chung" itemprop="url" target="_blank">Prof. M.-C. Chu</a><ul class="resume-item-list"><li>Modified the model to be more realistic by transforming initial circular orbits to elliptical orbits with a range of eccentricity</li><li>Simulated decaying dark matter halo density profile time evolution to account for Missing Satellite Problem</li><li>Constrained decaying dark matter nature with lowered expected amount of satellite galaxies in line with observed amount</li></ul>
+
+
+
+
+
+# # Bbirefringence
+# - project: Constraining gravitational wave amplitude birefringence
+#   # role: Flatiron Institute, Manhattan, NY
+#   duration: May 2022 &mdash; Oct 2023
+#   # url: "https://thomasckng.github.io/Constraining-Birefringence-with-GWTC-3/"
+#   description: Publication&#58; T. C. K. Ng, M. Isi, K. W. K. Wong, and W. M. Farr, Constraining gravitational wave amplitude birefringence with GWTC-3, <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.084068" itemprop="url">Phys. Rev. D 108, 084068 (2023)</a>, <a href="https://arxiv.org/abs/2305.05844" itemprop="url">arXiv:2305.05844</a>.<br><br><a href="https://thomasckng.github.io/Constraining-Birefringence-with-GWTC-3/" itemprop="url">Short Paper Summary</a><br><br>Supervisors&#58; <a href="https://inspirehep.net/authors/1275240" itemprop="url">Dr. Maximiliano Isi</a>, <a href="https://inspirehep.net/authors/1789361" itemprop="url">Dr. Kaze W. K. Wong</a>, <a href="https://inspirehep.net/authors/1044235" itemprop="url">Prof. Will M. Farr</a><ul class="resume-item-list"><li>Constrain the strength of amplitude birefringence by performing parameter estimations on events in GWTC-3 using Bilby</li><li>Perform statistical analysis to calculate the population probability of the strength of amplitude birefringence using python</li></ul>
