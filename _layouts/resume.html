@@ -49,10 +49,10 @@
       </header>
 
       {% if site.resume_section_projects %}
-      <!-- begin Publications -->
+      <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Publications</h2>
+          <h2>Projects</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -65,17 +65,17 @@
         {% endfor %}
 
       </section>
-      <!-- end Publications -->
+      <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Publications</h2>
         </header>
 
-        {% for project in site.data.projects %}
+        {% for publication in site.data.publications %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" itemprop="url">{{ publication.publication }}</a>{% else %}{{ publication.publication }}{% endif %}</h3>
@@ -85,7 +85,7 @@
         {% endfor %}
 
       </section>
-      <!-- end Projects -->
+      <!-- end Publications -->
       {% endif %}
 
       {% if site.resume_section_experience %}
