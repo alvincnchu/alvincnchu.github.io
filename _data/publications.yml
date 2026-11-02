@@ -3,8 +3,8 @@
 
 - publication: Dark matter self-annihilation as a hidden energy source in white dwarfs
   duration: Sept 2026
-  url: "https://arxiv.org/abs/2609.22873"
-  description: Authors&#58; Alvin Cheuk-Nam Chu, Cheuk-Man Yiu, Ching-Hui Lam, Peter Siu-Hei Cheung, Fong-Ching Ho, Ming-chung Chu; arXiv preprint available
+  # url: "https://arxiv.org/abs/2609.22873"
+  description: <a href="https://arxiv.org/abs/2609.22873" itemprop="url" target="_blank">arXiv preprint available</a><br>Authors&#58; Alvin Cheuk-Nam Chu, Cheuk-Man Yiu, Ching-Hui Lam, Peter Siu-Hei Cheung, Fong-Ching Ho, Ming-chung Chu 
 
 # - project: Testing stability and asteroseismology of bosonic dark matter admixed white dwarfs with variable scattering length
 #   duration: May 2022 &mdash; Oct 2023
