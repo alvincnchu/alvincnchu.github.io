@@ -1,11 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Dark Matter Self-Annihilation induced Type Ia Supernova
+- project: Dark Matter Self-Annihilation Induced Type Ia Supernovae
   duration: Sept 2026 &mdash; Present
   description: Supervisor&#58; <a href="https://wp.phy.cuhk.edu.hk/teaching-staff/chu-ming-chung/" itemprop="url" target="_blank">Prof. M.-C. Chu</a><ul class="resume-item-list"><li>Implement dark matter self-annihilation into a 2D hydrodynamical private code to facilitate the hydrodynamical simulation of SADM-admixed white dwarfs</li><li>Investigate the possibility of SADM-admixed white dwarfs to trigger Type Ia supernovae by studying the hydrodynamical evolution of the white dwarf under SADM heating</li></ul>
 
-- project: Rotating White Dwarfs as Distinguisher of Self-Annihilating Dark Matter Quantum Statistics
+- project: Rotating White Dwarfs Aids Distinguishing Self-Annihilating Dark Matter Quantum Statistics
   duration: Aug 2026 &mdash; Present
   description: Supervisor&#58; <a href="https://wp.phy.cuhk.edu.hk/teaching-staff/chu-ming-chung/" itemprop="url" target="_blank">Prof. M.-C. Chu</a><ul class="resume-item-list"><li>Provide guidance to a M.Phil. student in ways to demonstrate distinguishability between fermionic and bosonic self-annihilating dark matter</li><li>Compare the difference in white dwarf structural change under rotation for both SADM quantum statistics, fit empirically for mass quadrupoles, luminosity of rotating white dwarfs</li></ul>
 
